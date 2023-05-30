@@ -1,0 +1,9 @@
+C:\PRIVATE_AREA\PRYWATNE_PROJEKTY_C_SHARP\MyAI_Chat\MyAI_Chat\bin\Debug\MyAI_Chat.exe.config
+C:\PRIVATE_AREA\PRYWATNE_PROJEKTY_C_SHARP\MyAI_Chat\MyAI_Chat\bin\Debug\MyAI_Chat.exe
+C:\PRIVATE_AREA\PRYWATNE_PROJEKTY_C_SHARP\MyAI_Chat\MyAI_Chat\bin\Debug\MyAI_Chat.pdb
+C:\PRIVATE_AREA\PRYWATNE_PROJEKTY_C_SHARP\MyAI_Chat\MyAI_Chat\obj\Debug\MyAI_Chat.csprojResolveAssemblyReference.cache
+C:\PRIVATE_AREA\PRYWATNE_PROJEKTY_C_SHARP\MyAI_Chat\MyAI_Chat\obj\Debug\MyAI_Chat.ConversationWithChatBot.resources
+C:\PRIVATE_AREA\PRYWATNE_PROJEKTY_C_SHARP\MyAI_Chat\MyAI_Chat\obj\Debug\MyAI_Chat.Properties.Resources.resources
+C:\PRIVATE_AREA\PRYWATNE_PROJEKTY_C_SHARP\MyAI_Chat\MyAI_Chat\obj\Debug\MyAI_Chat.csproj.GenerateResource.Cache
+C:\PRIVATE_AREA\PRYWATNE_PROJEKTY_C_SHARP\MyAI_Chat\MyAI_Chat\obj\Debug\MyAI_Chat.exe
+C:\PRIVATE_AREA\PRYWATNE_PROJEKTY_C_SHARP\MyAI_Chat\MyAI_Chat\obj\Debug\MyAI_Chat.pdb
